@@ -9,7 +9,7 @@ X. Shen, H. Liu, J. Qin, F. Ge, and X. Zhou, "Towards Weak Signal Analysis in Hy
 					           Jian Qin
 					           Fangyuan Ge
 				             Xichuan Zhou* (zxc@cqu.edu.cn)
-                     School of Microelectronics and Communication Engineering, Chongqing University
+                     School of Microelectronics and Communication Engineering, Chongqing University,
                      All rights reserved.
 
 If you find the code helpful, please cite the paper once this paper is accepted. Thanks for your interest! 

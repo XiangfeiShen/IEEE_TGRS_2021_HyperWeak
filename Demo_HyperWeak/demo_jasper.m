@@ -1,5 +1,5 @@
 
-% demo code for submitted paper titiled "Title: Towards Weak Signal Analysis 
+% demo code for submitted paper titiled "Towards Weak Signal Analysis 
 % in Hyperspectral Data: A Semi-supervised Unmixing Perspective"
 %%
 clear

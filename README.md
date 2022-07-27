@@ -2,7 +2,7 @@
 
 This package contains the MATLAB codes for the algorithm presented in the paper:
 
-X. Shen, H. Liu, J. Qin, F. Ge, and X. Zhou, "Towards Weak Signal Analysis in Hyperspectral Data: A Semi-supervised Unmixing Perspective", Submitted to IEEE Transactions on Geoscience and Remote Sensing. (Accept with minor revisions)
+X. Shen, H. Liu, J. Qin, F. Ge, and X. Zhou, "Towards Weak Signal Analysis in Hyperspectral Data: A Semi-supervised Unmixing Perspective", Submitted to IEEE Transactions on Geoscience and Remote Sensing. (Accepted)
 
  Copyright (C) 2021, Xiangfei Shen (xfshen95@outlook.com);
                      Haijun Liu;
